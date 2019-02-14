@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+body
+	{
+		margin: 0px;
+		padding: 0px;
+		background: #E9E9E9 url(assets/img/bg01.png) repeat;
+		font-size: 11pt;
+		font-weight: 400;
+		color: #969696;
+	}
