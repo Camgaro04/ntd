@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 html, body
 {
     height: 100%;
@@ -636,17 +635,6 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
     border-top-color: #292929;
 }
 
-=======
-body
-	{
-		margin: 0px;
-		padding: 0px;
-		background: #E9E9E9 url(assets/img/bg01.png) repeat;
-		font-size: 11pt;
-		font-weight: 400;
-		color: #969696;
-	}
-
 	.titles
 	{
 		background: #292929;
@@ -670,6 +658,3 @@ body
 		padding: 10px 10px 10px 10px;
 		width: 8em;
 	}
-
- 
->>>>>>> origin/develop
