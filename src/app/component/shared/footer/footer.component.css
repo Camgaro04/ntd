@@ -1,0 +1,24 @@
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+  }
+
+  .footer-padding{
+      padding: 15px 15px 15px 15px;
+  }
+
+  .img-size{
+      width: 20%;
+      height: 40%;
+  }
+
+  .border{
+    border-radius:5px;
+  }
+
+  .footer-center-text{
+	transform: translateY(-180%);
+	position: relative;
+    text-align: center;
+ }

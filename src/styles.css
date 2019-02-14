@@ -7,3 +7,29 @@ body
 		font-weight: 400;
 		color: #969696;
 	}
+
+	.titles
+	{
+		background: #292929;
+		width: 100%;
+		height: 30%;
+		display: block;
+		padding: 0em 0em;
+		line-height: 80px;
+		letter-spacing: 1px;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 1em;
+		font-weight: 700;
+		color: #FFF;
+
+	}
+
+	.center{
+		margin-left: auto;
+		margin-right: auto;
+		padding: 10px 10px 10px 10px;
+		width: 8em;
+	}
+
+ 
