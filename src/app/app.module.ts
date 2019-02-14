@@ -6,7 +6,8 @@ import { AppComponent } from './app.component';
 import { FooterComponent } from './Pages/footer/footer.component';
 import { HeaderComponent } from './Pages/header/header.component';
 import { InicioComponent } from './Pages/inicio/inicio.component';
-import { CourseInfoComponent } from './component/course-info/course-info.component';
+import { CourseInfoComponent } from './Pages/course-info/course-info.component';
+
 
 @NgModule({
   declarations: [
@@ -14,7 +15,7 @@ import { CourseInfoComponent } from './component/course-info/course-info.compone
     FooterComponent,
     HeaderComponent,
     InicioComponent,
-    CourseInfoComponent,
+    CourseInfoComponent
   ],
   imports: [
     BrowserModule,
